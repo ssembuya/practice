@@ -1,0 +1,46 @@
+.maroon{
+    background-color: maroon;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}   
+li{
+    padding-right: 50px;
+
+}
+button{
+        border-radius: 25px;
+        height: 40px;
+        width: 45px;
+        color: blue;
+    }
+.left{
+    float: left;
+    width: 600px;
+    border: 10px blue;
+    padding: 3px;
+}
+.right{
+    float: right;
+    width: 700px;
+    border: 10px white;
+    padding: 3px;
+    background-color: maroon;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+.center{
+    float: center;
+    width: 700px;
+    border: 10px white;
+    padding: 3px;
+    background-color:black;
+    color: rgb(153, 126, 126);
+}
+form{
+    margin: auto;
+    width: 40px;
+
+}
